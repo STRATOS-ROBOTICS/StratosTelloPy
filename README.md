@@ -15,7 +15,11 @@ To change the view mode up C key To change the view mode down ALT LEFT
 
 ![](screen/screen2.png)
 
+IRON MAN:
+
 ![](screen/screen3.png)
+
+PREDATOR:
 
 ![](screen/screen4.png)
 
