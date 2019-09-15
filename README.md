@@ -5,6 +5,8 @@ Tello DJI opencv python pygame
 Inspired by the Damia FUENTES https://github.com/damiafuentes/DJITelloPy, opencv filters and missions/controls buttons have been added to create an HUD (Head Up Display).
 controlled by the pygame library.
 
+![](screen/screen1.png)
+
 VIDEO
 
 To change the filters up left capital key. To change the filters down CTRL left
