@@ -13,6 +13,11 @@ To change the filters up left capital key. To change the filters down CTRL left
 
 To change the view mode up C key To change the view mode down ALT LEFT
 
+![](screen/screen2.png)
+
+![](screen/screen3.png)
+
+![](screen/screen4.png)
 
 CONTROLS:
 
