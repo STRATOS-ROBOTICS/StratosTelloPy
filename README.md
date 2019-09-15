@@ -39,8 +39,6 @@ INVERT
 
 ![](screen/screen10.png)
 
-![](screen/screen11.png)
-
 ![](screen/screen12.png)
 
 ![](screen/screen13.png)
@@ -81,11 +79,6 @@ j gamepad/joystick mode (ps4)
 JOYSTICK CONTROLS:
 ------------------
 
--x = takeoff.
-
--square = change hud.
-
--triangle = remise à zéro moteurs
 
 -x = takeoff
 
