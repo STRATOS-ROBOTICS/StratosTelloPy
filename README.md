@@ -56,6 +56,9 @@ d rotate right a rotate left w up s down
 j gamepad/joystick mode (ps4)
 
 x = takeoff
+square = change hud
+triangle = remise à zéro moteurs
+x = takeoff
 carre = change hud
 triangle = remise zero moteurs
 rond atterrissage
