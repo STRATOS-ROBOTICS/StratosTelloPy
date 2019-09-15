@@ -12,16 +12,20 @@ VIDEO
 To change the filters up left capital key. To change the filters down CTRL left
 
 To change the view mode up C key To change the view mode down ALT LEFT
+
 IRON MAN:
+
 ![](screen/screen2.png)
 
-PREDDATOR:
+PREDATOR:
 
 ![](screen/screen3.png)
 
 EDGE:
 
 ![](screen/screen4.png)
+
+INVERT
 
 ![](screen/screen5.png)
 
