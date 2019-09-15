@@ -19,6 +19,28 @@ To change the view mode up C key To change the view mode down ALT LEFT
 
 ![](screen/screen4.png)
 
+![](screen/screen5.png)
+
+![](screen/screen6.png)
+
+![](screen/screen7.png)
+
+![](screen/screen8.png)
+
+![](screen/screen9.png)
+
+![](screen/screen10.png)
+
+![](screen/screen11.png)
+
+![](screen/screen12.png)
+
+![](screen/screen13.png)
+
+![](screen/screen14.png)
+
+![](screen/screen15.png)
+
 CONTROLS:
 
 up key forward down key backward right right left left
@@ -32,6 +54,9 @@ j gamepad/joystick mode (ps4)
 esc exit
 
 
+ENJOY !
+If you have any questions i will respond them as soon as i can with pleasure.
+Stratos
 
 ----------------
 STRATOS-ROBOTICS
