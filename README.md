@@ -5,48 +5,26 @@ Tello DJI opencv python pygame
 Inspired by the Damia FUENTES https://github.com/damiafuentes/DJITelloPy, opencv filters and missions/controls buttons have been added to create an HUD (Head Up Display).
 controlled by the pygame library.
 
-CONTROLS
---------
-up arrow forward
-down arrow backward
-left arrow left
-right arrow right
-a rotate couterclock
-d rotate clock
-s up
-w down
-8(keypad) flip front
-2(keypad) flip back
-4(keypad) flip left
-6(keypad) flip right
-
 VIDEO
------
-lshift change filter + 
-lctrl change filters -
-c change hud +
-x change hud -
 
-M DISABLE/ENABLE MENUBUTTONS
-H DISABLE/ENABLE HUD
+To change the filters up left capital key. To change the filters down CTRL left
 
-JOYSTICK
----------
-j = joystick (ps4)
-x = takeoff
-carre = change hud
-triangle = remise zero moteurs
-rond atterrissage
-joystick g avance recule 
-joystick droite gauche
-l2 down
-r2 up
-fleches = flip + direction
-share = photo
-options = video
-ps = remise a zéro des filtres et hud
-R1 rotation droite
-L1 rotation gauche
+To change the view mode up C key To change the view mode down ALT LEFT
+
+
+CONTROLS:
+
+up key forward down key backward right right left left
+
+d rotate right a rotate left w up s down
+
+2 backflip 4 rightflip 6 leftflip 8 frontflip
+
+j gamepad/joystick mode (ps4)
+
+esc exit
+
+
 
 ----------------
 STRATOS-ROBOTICS
