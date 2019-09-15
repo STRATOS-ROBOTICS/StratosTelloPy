@@ -2,7 +2,8 @@
 Tello DJI opencv python pygame
 
 
-Inspired by the Damian FUENTES, on a ajoutés es filtres opencv pour créer une interface type réalité augmenté.
+Inspired by the Damian FUENTES, opencv filters have been added to create an augmented reality interface.
+controlled by the pygame library.
 
 VIDEO
 -----
