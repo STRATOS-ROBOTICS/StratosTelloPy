@@ -50,14 +50,27 @@ INVERT
 ![](screen/screen15.png)
 
 CONTROLS:
+---------
+up key forward
+down key backward 
+right right 
+left left
 
-up key forward down key backward right right left left
+d rotate right 
+a rotate left 
+w up 
+s down
 
-d rotate right a rotate left w up s down
+2 backflip 
+4 rightflip 
+6 leftflip 
+8 frontflip
 
-2 backflip 4 rightflip 6 leftflip 8 frontflip
 
 j gamepad/joystick mode (ps4)
+
+JOYSTICK CONTROLS:
+------------------
 
 x = takeoff
 square = change hud
