@@ -52,18 +52,27 @@ INVERT
 CONTROLS:
 ---------
 up key forward
-down key backward 
+
+down key backward
+
 right right 
+
 left left
 
 d rotate right 
+
 a rotate left 
+
 w up 
+
 s down
 
 2 backflip 
+
 4 rightflip 
+
 6 leftflip 
+
 8 frontflip
 
 
@@ -73,28 +82,48 @@ JOYSTICK CONTROLS:
 ------------------
 
 -x = takeoff.
+
 -square = change hud.
+
 -triangle = remise à zéro moteurs
+
 -x = takeoff
+
 -carre = change hud
+
 -triangle = remise zero moteurs
+
 -rond atterrissage
+
 -joystick g avance recule 
+
 -joystick droite gauche
+
 -l2 down
+
 -r2 up
+
 -fleches = flip + direction
+
 -share = photo
+
 -options = video
+
 -ps = remise a zéro des filtres et hud
+
 -R1 rotation droite
+
 -L1 rotation gauche
+
 
 esc exit
 
 
 ENJOY !
+
 If you have any questions i will respond them as soon as i can with pleasure.
+
+
 Stratos
 
 ----------------
