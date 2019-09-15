@@ -48,7 +48,6 @@ ps = remise a zéro des filtres et hud
 R1 rotation droite
 L1 rotation gauche
 
-
 ----------------
 STRATOS-ROBOTICS
 
